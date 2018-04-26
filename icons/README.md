@@ -1,0 +1,1 @@
+The icons are not created by me and are taken from Windows 98 and Windows XP.

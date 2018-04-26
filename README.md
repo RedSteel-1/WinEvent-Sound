@@ -10,7 +10,7 @@ Created in AutoIt v3, for Windows 7/8/10.
 
 ## Description.
 
-This portable program plays custom sounds when the following 4 events occure:
+This portable program plays custom sounds when the following 4 events occur:
 
 - Startup/Logon.
 - Shutdown/Logoff.

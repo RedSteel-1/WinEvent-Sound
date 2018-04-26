@@ -30,9 +30,9 @@ Or:
 
 ## Screenshots.
 
-![](file://screenshots/2018-04-17_151146.png)
+<img src="https://github.com/Agych/WinEvent-Sound/raw/master/screenshots/2018-04-17_151146.png" width="75%">
 
-![](file://screenshots/2018-04-17_151408.png)
+![](https://github.com/Agych/WinEvent-Sound/raw/master/screenshots/2018-04-17_151408.png)
 
 ## Changing the tray icon.
 
